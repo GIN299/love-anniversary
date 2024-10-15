@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kỷ Niệm Tình Yêu</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #fff0f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #f8c8dc;
+            padding: 20px;
+        }
+        header h1 {
+            font-size: 36px;
+            margin: 0;
+        }
+        .message {
+            margin: 40px;
+            font-size: 20px;
+            padding: 20px;
+            background-color: #fdf0f5;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .anime-image {
+            margin: 20px 0;
+        }
+        footer {
+            background-color: #f8c8dc;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        audio {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tặng anh món quà nhân ngày kỉ niệm nhỏ của mình</h1>
+    </header>
+
+    <div class="message">
+        <p>Đừng xúc động quá mà chạy về với em ngay đấy nhé =))</p>
+        <p>From "cục nợ" của anh</p>
+    </div>
+
+    <div class="anime-image">
+        <img src="https://decor.leafnet.jp/DECORcollection/wp-content/sozai_date/tmb/02063.png" alt="Anime couple" width="300">
+    </div>
+
+    <audio controls autoplay loop>
+        <source src="https://zingmp3.vn/album/Chi-Can-Co-Nhau-Single-Vu-Cat-Tuong/6CZ9008I.html" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+
+    <footer>
+        <p>Chúc anh có một ngày kỉ niệm thật vui!</p>
+    </footer>
+</body>
+</html>
